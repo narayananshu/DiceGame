@@ -1,0 +1,31 @@
+.score_txt{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+/* margin-right: 300px; */
+/* margin-top: 0px; */
+
+}
+.main_container{
+    /* width: 1200px; */
+
+    display: flex;
+    justify-content: center;
+   
+}
+.inner_main{
+    margin-top: -40px;
+}
+.instr_container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+    
+}
+.container{
+border: 2px solid black;
+width: 50%;
+margin: 50px;
+margin-left: 400px;
+}

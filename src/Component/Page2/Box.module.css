@@ -1,0 +1,21 @@
+.box_item{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    display: flex;
+ 
+    align-items: center;
+    margin: 10px;
+   justify-content: center;
+}
+.box_item:active{
+    background-color: black;
+    color: white;
+}
+.container_box{
+    display: flex;
+    flex-direction: row;
+    margin-left:600px;
+   
+   
+}

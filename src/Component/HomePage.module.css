@@ -1,0 +1,25 @@
+
+
+.btn_btn:hover{
+    cursor:grab;
+    background-color: rgb(241, 160, 160);
+    
+}
+.container_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.container{
+   
+   max-width: 1000px;
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}

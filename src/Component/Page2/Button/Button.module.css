@@ -1,0 +1,19 @@
+.btns{width: 200px;
+height: 40px;
+border: none;
+background:linear-gradient(-80deg, rgb(240, 189, 189) 10%, rgb(210, 210, 245) 30%, rgb(189, 249, 189) 70%);
+-webkit-text-fill-color: none;
+
+color: black;
+margin-left: -50px;
+font-size: 20px;
+border-radius: 10px;
+margin-top: 20px;
+
+}
+
+.container{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
